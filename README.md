@@ -123,4 +123,6 @@ Poker/
 ---
 
 ## 執行結果
-<img width="1919" height="1019" alt="執行截圖" src="https://github.com/user-attachments/assets/b507d171-ab88-4e7f-8729-68c50ac55555" />
+
+下圖為本程式實際執行畫面。  
+![執行結果](screenshots/result.png)
