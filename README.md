@@ -119,4 +119,8 @@ Poker/
 ├── README.md
 ├── .gitignore
 └── 執行結果.png
+
+---
+
+## 執行結果
 <img width="1919" height="1019" alt="執行截圖" src="https://github.com/user-attachments/assets/b507d171-ab88-4e7f-8729-68c50ac55555" />
